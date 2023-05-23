@@ -1,0 +1,27 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .main-container {
+    margin: 0.5rem;
+} */
+
+/* .dropdown .dropdown-left > .dropdown-content,
+.dropdown .dropdown-right > .dropdown-content {
+    opacity: 0;
+    visibility: hidden;
+    padding-left: inherit;
+    background-color:blue;
+}
+.dropdown .dropdown-left:hover > .dropdown-content,
+.dropdown .dropdown-right:hover > .dropdown-content {
+    opacity: 1;
+    visibility: visible;
+}
+.dropdown .menu {
+    overflow: visible;
+    background-color:blue;
+
+} */
